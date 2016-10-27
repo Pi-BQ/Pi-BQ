@@ -1,0 +1,22 @@
+{
+  "name": "pi-bq",
+  "version": "1.0.0",
+  "description": "BBQ temperature monitoring with a Raspberry Pi",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pi-BQ/Pi-BQ.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pi-BQ/Pi-BQ/issues"
+  },
+  "homepage": "https://github.com/Pi-BQ/Pi-BQ#readme"
+}
